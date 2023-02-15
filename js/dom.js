@@ -1,2 +1,3 @@
-console.log(`Hello form js`);
-console.log(document.body);
+// console.log(`Hello form js`);
+// console.log(document.body);
+

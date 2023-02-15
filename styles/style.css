@@ -1,6 +1,12 @@
-h1{
-   color: lightcoral;
+h1 {
+  color: lightcoral;
 }
-li{
-   color: tomato;
+li {
+  color: tomato;
+}
+#fruits-title {
+  color: black;
+}
+.important-places{
+   color: blueviolet;
 }
