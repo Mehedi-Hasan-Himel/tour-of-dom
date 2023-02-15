@@ -23,7 +23,20 @@
    </main>
    <script src="./js/dom.js"></script>
    <script>
-      console.log(`JS inside html`);
+
+     const liCollection = document.getElementsByTagName('li');
+       console.log(liCollection);
+
+       for (const li of liCollection) {
+         console.log(li.innerText );
+       }
+
+       const allHeading = document.getElementsByTagName('h1');
+
+         for (const h1 of allHeading) {
+            console.log(h1.innerText);
+         }
+
    </script>
 </body>
 
