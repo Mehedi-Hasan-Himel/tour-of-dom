@@ -1,7 +1,7 @@
 h1 {
   color: lightcoral;
 }
-li {
+.fruits-container li {
   color: tomato;
 }
 #fruits-title {
@@ -9,4 +9,15 @@ li {
 }
 .important-places{
    color: blueviolet;
+   background-color: aquamarine;
+}
+
+.yellow-bg{
+   background-color: yellowgreen;
+}
+.letge-text{
+   font-size: 2em;
+}
+.text-center{
+   text-align: center;
 }
